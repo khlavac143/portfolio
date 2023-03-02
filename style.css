@@ -47,7 +47,7 @@ About
     margin-bottom: 10px;
 }
 
-#about .em {
+#about .email {
     margin-top: 14px;
     font-size: 13px;
 }
@@ -59,4 +59,79 @@ About
 
 #about .icons a{
     color: #000;
+}
+
+/*********
+Projects
+*********/
+
+#projects {
+    margin: 80px auto;
+    max-width: 400px;
+    margin-bottom: 10px;
+}
+
+/**
+Twitter Clone
+**/
+
+#projects img {
+    margin-bottom: 10px;
+    width: 200px;
+    text-align: left;
+}
+
+#projects .twitter{
+    text-align: right;
+    font-size: 14px;
+
+}
+
+#projects .tlogin {
+    text-align: right;
+    font-size: 14px;
+}
+
+#projects .tpassword{
+    text-align: right;
+    font-size: 14px;
+}
+
+#projects .twebsite{
+    text-align: right;
+    font-size: 14px;
+}
+
+/**
+Netflix Clone
+**/
+#projects2 {
+    width: auto;
+}
+
+#projects2 img {
+    margin-bottom: 20px;
+    width: 200px;
+    text-align: left;
+}
+
+#projects2 .netflix{
+    text-align: right;
+    font-size: 14px;
+
+}
+
+#projects2 .nlogin {
+    text-align: right;
+    font-size: 14px;
+}
+
+#projects2 .npassword{
+    text-align: right;
+    font-size: 14px;
+}
+
+#projects2 .nwebsite{
+    text-align: right;
+    font-size: 14px;
 }
