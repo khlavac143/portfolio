@@ -1,0 +1,62 @@
+/**********
+COMMON
+**********/
+
+body {
+    font-family: "monospace", sans-serif;
+}
+
+.font-primary {
+    color:pink;
+}
+
+.title-icon{
+    font-size: 20px; 
+    font-weight: bold;
+}
+
+/**********
+About
+**********/ 
+
+#about {
+    margin: 60px auto;
+    max-width: 400px;
+    text-align: center; 
+}
+
+#about img {
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+#about .name {
+    font-size: 19px;
+}
+
+#about .vocation {
+    font-size: 17px;
+    color: #a8a8a8; 
+    margin-bottom: 10px;
+}
+
+#about .skills {
+    font-size: 14px;
+    color: grey;
+    margin-bottom: 10px;
+}
+
+#about .em {
+    margin-top: 14px;
+    font-size: 13px;
+}
+
+#about .icons {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#about .icons a{
+    color: #000;
+}
